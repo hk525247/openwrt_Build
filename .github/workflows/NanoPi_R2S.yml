@@ -1,7 +1,7 @@
 #=================================================
 # Description: Build OpenWrt using GitHub Actions
 # Lisence: MIT
-# Author: yu
+# Author: zyu
 #=================================================
 
 name: NanoPi_R2S
